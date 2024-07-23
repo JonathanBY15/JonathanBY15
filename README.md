@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>💻 Passionate about coding and always eager to learn new technologies.<br>📚 Currently learning AWS.</p>
+<p align="left">💻 Creating bugs since 2018. <br>📚 Currently learning AWS.</p>
 
 ###
 

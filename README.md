@@ -2,9 +2,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
 
 <p align="left">I'm a kickboxing, music-producing full-stack developer, from Atlanta, GA.</p>
 

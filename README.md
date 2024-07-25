@@ -2,15 +2,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">I'm a kickboxing, music-producing full-stack developer, from Atlanta, GA.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚 Currently learning AWS.</p>
+<p align="left">💻 Creating bugs since 2018.<br>📚 Currently learning AWS.</p>
 
 ###
 

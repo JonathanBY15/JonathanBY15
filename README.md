@@ -12,9 +12,6 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhnOHFteHNkd29obDQ0MXFxNnVjc3BmaHVnbmJ4Y2NweHpmMDhnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpF9R9M1PHN5e5liSx/giphy.webp"  />
-</div>
 
 ###
 

@@ -2,20 +2,19 @@
 
 ###
 
+<h2 align="left">About me</h2>
 
+###
 
 <p align="left">I'm a kickboxing, music-producing full-stack developer, from Atlanta, GA.</p>
 
 ###
 
-<p align="left">💻 Creating bugs since 2018. <br>📚 Currently learning AWS.</p>
+<p align="left">✨ Creating bugs since 2018.<br>📚 Currently learning AWS.</p>
 
 ###
 
-
-###
-
-<h2 align="left">🛠️ Technologies & Tools</h2>
+<h2 align="left">🛠️ Languages & Tools</h2>
 
 ###
 
@@ -44,5 +43,11 @@
 ###
 
 <p align="left">Frontend: React, JavaScript, HTML, CSS, Bootstrap<br>Backend: Django, Flask<br>Databases: PostgreSQL, MySQL<br>Deployment: AWS (S3, EC2), Nginx, Gunicorn, Supervisor<br>Version Control: Git, GitHub<br>Other: API Development, Unit Testing, Data Analysis</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanBY15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###

@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Creating bugs since 2018.<br>📚 Currently learning AWS.</p>
+<p align="left">💻 Creating bugs since 2018.<br>📚 Currently building a job search dashboard with Angular.</p>
 
 ###
 

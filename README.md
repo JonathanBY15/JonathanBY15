@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a kickboxing, music-producing full-stack developer, from Atlanta, GA.</p>
+<p align="left">I'm a kickboxing, music-producing, full-stack developer from Atlanta, GA.</p>
 
 ###
 

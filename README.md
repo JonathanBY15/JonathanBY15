@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Creating bugs since 2018.<br>📚 Currently building a web app for PC gamers to track the prices of their favorite games.</p>
+<p align="left">💻 Creating bugs since 2018.<br>📚 Currently getting my AWS certification.</p>
 
 ###
 

@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">💻 Creating bugs since 2018.<br>📚 Currently getting my AWS certification.</p>
+<h2 align="left">🚀 What I'm Up To</h2>
+
+<p align="left">🛠️ Building a tool for frontend interview prep.<br> ☁️ Getting my first AWS certification.</p>
 
 ###
 
@@ -40,7 +42,7 @@
 
 ###
 
-<p align="left">Frontend: React, JavaScript, TypeScript, HTML, CSS, Bootstrap<br>Backend: Python, Node.js, Django, Flask<br>Databases: PostgreSQL, MySQL<br>Deployment: AWS (S3, EC2), Nginx, Gunicorn, Supervisor<br>Version Control: Git, GitHub<br>Other: API Development, Unit Testing, Data Analysis</p>
+<p align="left">Frontend: React, JavaScript, TypeScript, CSS, Tailwind, Bootstrap<br>Backend: Python, Node.js, Java, Flask, Express, Spring<br>Databases: PostgreSQL, MySQL, ORM's, Firebase<br>Deployment: Vercel, Supabase, AWS (S3, EC2), Nginx, Gunicorn, Supervisor<br>Other: Testing, Data Analysis</p>
 
 ###
 

@@ -42,12 +42,12 @@
 
 ###
 
-<p align="left">Frontend: React, JavaScript, TypeScript, CSS, Tailwind, Bootstrap<br>Backend: Python, Node.js, Java, Flask, Express, Spring<br>Databases: PostgreSQL, MySQL, ORM's, Firebase<br>Deployment: Vercel, Supabase, AWS (S3, EC2), Nginx, Gunicorn, Supervisor<br>Other: Testing, Data Analysis</p>
+<p align="left"><strong>Frontend:</strong> <em>React, JavaScript, TypeScript, CSS, Tailwind, Bootstrap</em><br>
+<strong>Backend:</strong> <em>Python, Node.js, Java, Flask, Express, Spring</em><br>
+<strong>Databases:</strong> <em>PostgreSQL, MySQL, ORM's, Firebase</em><br>
+<strong>Deployment:</strong> <em>Vercel, Supabase, AWS (S3, EC2), Nginx, Gunicorn, Supervisor</em><br>
+<strong>Other:</strong> <em>Testing, Data Analysis</em></p>
+
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanBY15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
